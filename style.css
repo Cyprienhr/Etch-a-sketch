@@ -9,3 +9,9 @@
     border: 1px solid rgb(161, 167, 161);
     box-sizing: border-box;
 }
+#newGrid{
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 4px;
+    font-size: 30px;
+}
